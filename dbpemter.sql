@@ -9,4 +9,4 @@ CREATE TABLE TabelBarang (
   HargaBeli int(11) DEFAULT NULL,
   HargaJual int(11) DEFAULT NULL,
   Stok int(11) DEFAULT NULL
-);
+); 
